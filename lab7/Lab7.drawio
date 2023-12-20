@@ -1,0 +1,372 @@
+<mxfile host="app.diagrams.net" modified="2023-12-20T11:28:36.659Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0" etag="pNj6i5RUCrxfhNe95EjS" version="22.1.11" type="device">
+  <diagram name="Сторінка-1" id="Kmi3jSIfuRA45sn3oLUg">
+    <mxGraphModel dx="4629" dy="2237" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-2" value="Видача кредиту" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="265" y="212" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-3" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="156" y="249" as="sourcePoint" />
+            <mxPoint x="266" y="249" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-4" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="155" y="278" as="sourcePoint" />
+            <mxPoint x="265" y="278" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-5" value="Кредитна угода" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="507" y="235" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-6" value="Кредитний звіт" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="51" y="262" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-7" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="405" y="275" as="sourcePoint" />
+            <mxPoint x="515" y="275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-8" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="405" y="250" as="sourcePoint" />
+            <mxPoint x="515" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-10" value="Умови кредиту" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="505" y="260" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-11" value="Документація" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="507" y="283" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-12" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="405" y="298" as="sourcePoint" />
+            <mxPoint x="515" y="298" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-13" value="Заявка на кредит" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="233" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-14" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="299.7" y="160" as="sourcePoint" />
+            <mxPoint x="299.7" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-15" value="Законодавчі&lt;br&gt;вимоги" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="255" y="120" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-16" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="374.70000000000005" y="161" as="sourcePoint" />
+            <mxPoint x="374.70000000000005" y="211" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-17" value="Політика&lt;br&gt;кредитування" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="325" y="120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-18" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="334.69999999999993" y="372" as="sourcePoint" />
+            <mxPoint x="334.69999999999993" y="312" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-19" value="Система&lt;br&gt;автоматизованого&lt;br&gt;прийняття&lt;br&gt;рішень" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="275" y="366" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-20" value="А0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="261" y="292" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-21" value="Оцінка кредитного ризику" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="285" y="790" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-22" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="815" as="sourcePoint" />
+            <mxPoint x="286" y="815" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-23" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="844" as="sourcePoint" />
+            <mxPoint x="285" y="844" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-25" value="Кредитний звіт" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="69" y="828" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" target="7ak_FhO_2Jp5cwk3Demg-41" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="840" as="sourcePoint" />
+            <mxPoint x="535" y="840" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="841" />
+              <mxPoint x="480" y="1077" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" target="7ak_FhO_2Jp5cwk3Demg-41" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="815" as="sourcePoint" />
+            <mxPoint x="535" y="815" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="816" />
+              <mxPoint x="530" y="1037" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-32" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="580" as="sourcePoint" />
+            <mxPoint x="319.70000000000005" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-33" value="Аналіз&lt;br style=&quot;font-size: 9px;&quot;&gt;кредитного&lt;br style=&quot;font-size: 9px;&quot;&gt;скорингу" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=default;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="285" y="628" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-34" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="395" y="650" as="sourcePoint" />
+            <mxPoint x="394.70000000000005" y="791" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-36" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1290" as="sourcePoint" />
+            <mxPoint x="319.6399999999999" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-38" value="А3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="281" y="850" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-40" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="395" y="1380" as="sourcePoint" />
+            <mxPoint x="394.6399999999999" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-41" value="Керування кредитним рішенням" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="668" y="1017" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" target="7ak_FhO_2Jp5cwk3Demg-68" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="808" y="1056" as="sourcePoint" />
+            <mxPoint x="918" y="1056" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="880" y="1056" />
+              <mxPoint x="880" y="1170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-52" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="395" y="580" as="sourcePoint" />
+            <mxPoint x="770" y="1018" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="395" y="680" />
+              <mxPoint x="770" y="680" />
+              <mxPoint x="770" y="1018" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-54" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" target="7ak_FhO_2Jp5cwk3Demg-41" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1380" as="sourcePoint" />
+            <mxPoint x="622.6399999999999" y="1097" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="1230" />
+              <mxPoint x="703" y="1230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-56" value="А3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="664" y="1077" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-59" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=elbowEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="7ak_FhO_2Jp5cwk3Demg-41" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="177" y="844" as="sourcePoint" />
+            <mxPoint x="377" y="1029" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-62" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="356" y="650" as="sourcePoint" />
+            <mxPoint x="356.23" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-64" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="356" y="580" as="sourcePoint" />
+            <mxPoint x="704.0000000000002" y="1017" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="356" y="700" />
+              <mxPoint x="704" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-66" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="395" y="1380" as="sourcePoint" />
+            <mxPoint x="770" y="1100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="395" y="1300" />
+              <mxPoint x="770" y="1300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-68" value="Укладення кредитної угоди" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1010" y="1150" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-69" value="Рішення про кредит" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="508" y="211" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-70" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="405" y="226" as="sourcePoint" />
+            <mxPoint x="515" y="226" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-72" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1150" y="1170" as="sourcePoint" />
+            <mxPoint x="1310" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-74" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1149" y="1208" as="sourcePoint" />
+            <mxPoint x="1309" y="1210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-75" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=elbowEdgeStyle;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="187" y="844" as="sourcePoint" />
+            <mxPoint x="1010" y="1200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-76" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="840.44" as="sourcePoint" />
+            <mxPoint x="1300" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-44" value="Умови кредиту" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBackgroundColor=default;labelBorderColor=none;shadow=0;glass=0;fillColor=none;fillStyle=auto;fontSize=10;html=1;" parent="1" vertex="1">
+          <mxGeometry x="890" y="1155" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-73" value="Документація" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=default;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="1173" y="1193" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-71" value="Кредитна угода" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1169" y="1154" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-31" value="Заявка на кредит" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=default;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="65" y="799" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-35" value="Політика&lt;br style=&quot;font-size: 9px;&quot;&gt;кредитування" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="356" y="630" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-24" value="Рівень ризику" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="436" y="800" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-39" value="Алгоритми" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="356" y="1316" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-28" value="Рішення про кредит" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1156" y="824" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-83" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" target="7ak_FhO_2Jp5cwk3Demg-68" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1045" y="610" as="sourcePoint" />
+            <mxPoint x="980" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-84" value="Перевірка відповідності умов&lt;br style=&quot;font-size: 11px;&quot;&gt;кредитної угоди" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" parent="7ak_FhO_2Jp5cwk3Demg-83" connectable="0" vertex="1">
+          <mxGeometry x="-0.0049" relative="1" as="geometry">
+            <mxPoint x="5" y="-225" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-85" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" target="7ak_FhO_2Jp5cwk3Demg-68" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="356" y="581" as="sourcePoint" />
+            <mxPoint x="704" y="1018" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="356" y="720" />
+              <mxPoint x="1115" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-63" value="Законодавчі&lt;br style=&quot;font-size: 9px;&quot;&gt;вимоги" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="321" y="601" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-87" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.213;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="7ak_FhO_2Jp5cwk3Demg-68" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1381" as="sourcePoint" />
+            <mxPoint x="1050" y="1231" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="1260" />
+              <mxPoint x="1040" y="1260" />
+              <mxPoint x="1040" y="1231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-88" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1076" y="1530" as="sourcePoint" />
+            <mxPoint x="1076" y="1230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-90" value="Електронний&lt;br style=&quot;font-size: 10px;&quot;&gt;підпис" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" parent="7ak_FhO_2Jp5cwk3Demg-88" connectable="0" vertex="1">
+          <mxGeometry x="-0.3148" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-89" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1128" y="1530" as="sourcePoint" />
+            <mxPoint x="1128" y="1230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-91" value="Автоматизовані&lt;br style=&quot;font-size: 10px;&quot;&gt;системи для&lt;br style=&quot;font-size: 10px;&quot;&gt;прийняття&lt;br style=&quot;font-size: 10px;&quot;&gt;рішень" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" parent="7ak_FhO_2Jp5cwk3Demg-89" connectable="0" vertex="1">
+          <mxGeometry x="-0.5843" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-92" value="А3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="1008" y="1210" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-93" value="2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="782" y="1077" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-94" value="3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="1123" y="1210" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-97" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="399" y="850" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-98" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="808" y="1056" as="sourcePoint" />
+            <mxPoint x="1310" y="1056" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-100" value="Умови кредиту" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBackgroundColor=default;labelBorderColor=none;shadow=0;glass=0;fillColor=none;fillStyle=auto;fontSize=10;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1199" y="1040" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7ak_FhO_2Jp5cwk3Demg-65" value="Системи&lt;br style=&quot;font-size: 11px;&quot;&gt;моніторингу&lt;br style=&quot;font-size: 11px;&quot;&gt;та звітності" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="279" y="1304" width="80" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
